@@ -13,10 +13,10 @@ A fun and interactive Android game that challenges players to color the grid box
 - GridView and Custom Adapters
 
 ## 📱 Screenshots
-<img src="screenshots/ss1.jpg" width="300" alt="Game Start Screen">
-<img src="screenshots/ss2.jpg" width="300" alt="Red Boxes Selected">
-<img src="screenshots/ss3.jpg" width="300" alt="Red Boxes completed and on green box">
-<img src="screenshots/ss4.jpg" width="300" alt="green Boxes completed and You Win">
+<img src="screenshot/ss1.jpg" width="300" alt="Game Start Screen">
+<img src="screenshot/ss2.jpg" width="300" alt="Red Boxes Selected">
+<img src="screenshot/ss3.jpg" width="300" alt="Red Boxes completed and on green box">
+<img src="screenshot/ss4.jpg" width="300" alt="green Boxes completed and You Win">
 
 ## 🚀 How to Run
 1. Clone the repo
